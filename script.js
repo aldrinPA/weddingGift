@@ -1,5 +1,5 @@
 // Set the date of the 10th wedding anniversary
-const weddingDate = new Date('2035-02-18'); // Replace with the actual date of the 10th anniversary
+const weddingDate = new Date('2025-02-08'); // Replace with the actual date of the 10th anniversary
 
 function updateCountdown() {
     const now = new Date();
